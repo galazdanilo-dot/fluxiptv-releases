@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.2/flux.apk",
-  "notes": "Canales en vivo más estables: reconexión sin cortes que no vacía el buffer y mejor manejo de canales HLS. Agenda deportiva con canales-evento, más partidos detectados, sin duplicados y filtro por deporte. Actualizaciones automáticas desde GitHub."
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.3/flux.apk",
+  "notes": "Mi equipo: reconoce mejor, 7 días y aviso al empezar. Imagen a saltos: reconecta o cambia a FHD. Agenda: usa la guía de otra lista si falta y filtra películas. Formato TS/HLS por canal en el menú de opciones."
 }
