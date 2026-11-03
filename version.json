@@ -1,0 +1,6 @@
+{
+  "versionCode": 3,
+  "versionName": "1.2",
+  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.2/flux.apk",
+  "notes": "Canales en vivo más estables: reconexión sin cortes que no vacía el buffer y mejor manejo de canales HLS. Agenda deportiva con canales-evento, más partidos detectados, sin duplicados y filtro por deporte. Actualizaciones automáticas desde GitHub."
+}
