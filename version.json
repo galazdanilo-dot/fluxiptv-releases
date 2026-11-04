@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.4/flux.apk",
-  "notes": "Control parental: oculta categorías bloqueadas y contenido de adultos en toda la app. Cartel del canal con reloj, tiempo restante, calidad y señal; en vivo OK muestra el cartel y otro OK abre Opciones. Más reserva en vivo (18 s): menos cortes en canales inestables."
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.5/flux.apk",
+  "notes": "Canales inestables (como ESPN) parten sin trabarse y se recuperan más rápido tras un corte. Nuevo botón para actualizar la lista desde la barra superior."
 }
