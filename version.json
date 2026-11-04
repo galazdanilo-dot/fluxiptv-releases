@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.6/flux.apk",
-  "notes": "Revisión de canales caídos: desde TV en vivo o desde Opciones del reproductor, revisa los canales de una categoría, los marca con ⚠ y ofrece ocultarlos."
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.7/flux.apk",
+  "notes": "Inicio renovado: portada con la imagen del último canal visto, tarjetas con fotos y logos parejos. Si un canal llega con la imagen dañada, cambia solo a HLS. Al volver con ←, el foco vuelve a la categoría o sección abierta."
 }
