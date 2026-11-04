@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.5/flux.apk",
-  "notes": "Canales inestables (como ESPN) parten sin trabarse y se recuperan más rápido tras un corte. Nuevo botón para actualizar la lista desde la barra superior."
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.6/flux.apk",
+  "notes": "Revisión de canales caídos: desde TV en vivo o desde Opciones del reproductor, revisa los canales de una categoría, los marca con ⚠ y ofrece ocultarlos."
 }
