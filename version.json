@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.8/flux.apk",
-  "notes": "Arreglo para TV TCL: la pantalla ya no parpadea ni muestra menús viejos sobre el video. Se quitan las fotos de canales del Inicio y la vista previa al recorrer las listas (consumía otra conexión)."
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.9/flux.apk",
+  "notes": "Ya no se congela la imagen ni se atrasa el audio cuando el canal se reconecta. Junta hasta 15 s de reserva casi sin notarse. La lista ya no repite canales al cambiar de versión."
 }
