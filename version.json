@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.9/flux.apk",
-  "notes": "Ya no se congela la imagen ni se atrasa el audio cuando el canal se reconecta. Junta hasta 15 s de reserva casi sin notarse. La lista ya no repite canales al cambiar de versión."
+  "versionCode": 11,
+  "versionName": "1.10",
+  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.10/flux.apk",
+  "notes": "Películas y Series más fluidas y con portada más rápida. Calidad de imagen (4K, 1080p, 720p) antes de abrir cada título y en la búsqueda. Nuevas filas: Tendencias, Recién agregados y por género. Saltar intro ya no se queda en pantalla, y al subir vuelves a la pestaña donde estabas."
 }
