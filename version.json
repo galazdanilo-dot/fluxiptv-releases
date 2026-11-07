@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.13",
-  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.13/flux.apk",
-  "notes": "Las listas M3U ahora muestran sus series con temporadas y episodios, y las películas sin portada la toman de TMDB."
+  "versionCode": 15,
+  "versionName": "1.14",
+  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.14/flux.apk",
+  "notes": "Atrás en Inicio pide confirmar antes de salir, los canales caídos pasan solos a otra versión (OPC 1, HD…) y las series de listas M3U muestran portada, nombre de cada episodio y calidad."
 }
