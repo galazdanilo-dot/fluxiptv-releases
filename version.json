@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "1.15",
-  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.15/flux.apk",
-  "notes": "Episodios y películas muestran cuánto llevas y si ya los viste, Atrás vuelve a la película donde estabas y avisa al tiro si un video no está disponible."
+  "versionCode": 17,
+  "versionName": "1.16",
+  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.16/flux.apk",
+  "notes": "Agenda deportiva con los partidos de futbolenvivochile.com buscados en tu lista, solo en vivo y sin repeticiones; la Agenda abre mucho más rápido y separa mejor los deportes"
 }
