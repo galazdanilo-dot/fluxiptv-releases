@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.12",
-  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.12/flux.apk",
-  "notes": "Ahora la búsqueda muestra la calidad (720p, 1080p, 4K) de más películas, también en listas M3U."
+  "versionCode": 14,
+  "versionName": "1.13",
+  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.13/flux.apk",
+  "notes": "Las listas M3U ahora muestran sus series con temporadas y episodios, y las películas sin portada la toman de TMDB."
 }
