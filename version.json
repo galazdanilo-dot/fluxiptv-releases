@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.14",
-  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.14/flux.apk",
-  "notes": "Atrás en Inicio pide confirmar antes de salir, los canales caídos pasan solos a otra versión (OPC 1, HD…) y las series de listas M3U muestran portada, nombre de cada episodio y calidad."
+  "versionCode": 16,
+  "versionName": "1.15",
+  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.15/flux.apk",
+  "notes": "Episodios y películas muestran cuánto llevas y si ya los viste, Atrás vuelve a la película donde estabas y avisa al tiro si un video no está disponible."
 }
