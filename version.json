@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.11",
-  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.11/flux.apk",
-  "notes": "Más estable: abrir la app desde el inicio de la TV ya no acumula pantallas ni reproductores en segundo plano. En la búsqueda ahora puedes bajar a los resultados con el control remoto. En la Guía, la flecha derecha ya no te saca de la sección."
+  "versionCode": 13,
+  "versionName": "1.12",
+  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.12/flux.apk",
+  "notes": "Ahora la búsqueda muestra la calidad (720p, 1080p, 4K) de más películas, también en listas M3U."
 }
