@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "1.16",
-  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.16/flux.apk",
-  "notes": "Agenda deportiva con los partidos de futbolenvivochile.com buscados en tu lista, solo en vivo y sin repeticiones; la Agenda abre mucho más rápido y separa mejor los deportes"
+  "versionCode": 18,
+  "versionName": "1.17",
+  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.17/flux.apk",
+  "notes": "Agenda: marcador en vivo de ESPN, menos repeticiones en NBA/NFL y otros deportes, OK abre directo la mejor señal y OK pone el aviso en partidos que no empiezan (mantén OK para ver todos los canales)"
 }
