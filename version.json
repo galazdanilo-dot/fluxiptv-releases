@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "1.17",
-  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.17/flux.apk",
-  "notes": "Agenda: marcador en vivo de ESPN, menos repeticiones en NBA/NFL y otros deportes, OK abre directo la mejor señal y OK pone el aviso en partidos que no empiezan (mantén OK para ver todos los canales)"
+  "versionCode": 19,
+  "versionName": "1.18",
+  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.18/flux.apk",
+  "notes": "Arreglos para TVs TCL: sin cámara lenta en vivo, menos cortes (más reserva al partir en canales inestables) y audio a tiempo. Inicio: los botones ya no saltan, Guía y Partidos de hoy abren bien. Avisos de gol, canal anterior entre categorías y paso automático de 4K a FHD si la conexión no da."
 }
