@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "1.20",
-  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.20/flux.apk",
-  "notes": "Partidos de hoy más rápidos en Inicio, nombres de canales limpios con bandera y calidad, logos oscuros más livianos y «VIVO» en una línea en la agenda."
+  "versionCode": 22,
+  "versionName": "1.21",
+  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.21/flux.apk",
+  "notes": "Sin parpadeo de la pantalla al entrar a un canal y «Tu equipo» sin partidos que no son de tu equipo."
 }
