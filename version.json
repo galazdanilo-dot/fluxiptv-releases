@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "1.19",
-  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.19/flux.apk",
-  "notes": "Menos cortes en vivo: ya no reconecta cuando el servidor se calla unos segundos (eso hacía perder reserva hasta cortarse) y los canales inestables parten con 12 s de reserva."
+  "versionCode": 21,
+  "versionName": "1.20",
+  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.20/flux.apk",
+  "notes": "Partidos de hoy más rápidos en Inicio, nombres de canales limpios con bandera y calidad, logos oscuros más livianos y «VIVO» en una línea en la agenda."
 }
