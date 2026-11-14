@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "1.22",
-  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.22/flux.apk",
-  "notes": "Audio sin desfase después de los cortes y reconexiones del canal, y menos cierres de la app al actualizar la lista."
+  "versionCode": 24,
+  "versionName": "1.23",
+  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.23/flux.apk",
+  "notes": "Audio sin desfase después de las reconexiones, sin recargas innecesarias del canal, subtítulos automáticos en español con audio en inglés y 48 Hz para canales de películas."
 }
