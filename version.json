@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "1.26",
-  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.26/flux.apk",
-  "notes": "Versión 1.26: en Ligas, «Amistosos» con todos los partidos de selecciones y clubes, y los partidos de los próximos 7 días"
+  "versionCode": 28,
+  "versionName": "1.27",
+  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.27/flux.apk",
+  "notes": "Versión 1.27: botón grande «Agregar lista» en Inicio y en Ajustes"
 }
