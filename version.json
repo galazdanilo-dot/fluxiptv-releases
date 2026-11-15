@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "1.25",
-  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.25/flux.apk",
-  "notes": "Versión 1.25: pantalla Ligas (partidos de tu liga con los canales de todas tus listas), búsqueda y tendencias en todas las listas con «¿Dónde verla?», y menos cortes en vivo (canal que se pegaba, saltos del servidor, audio desfasado)"
+  "versionCode": 27,
+  "versionName": "1.26",
+  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.26/flux.apk",
+  "notes": "Versión 1.26: en Ligas, «Amistosos» con todos los partidos de selecciones y clubes, y los partidos de los próximos 7 días"
 }
