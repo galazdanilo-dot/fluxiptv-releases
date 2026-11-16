@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "1.27",
-  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.27/flux.apk",
-  "notes": "Versión 1.27: botón grande «Agregar lista» en Inicio y en Ajustes"
+  "versionCode": 29,
+  "versionName": "1.28",
+  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.28/flux.apk",
+  "notes": "Versión 1.28: corrige el cierre de Flux al abrir Inicio (títulos repetidos en tendencias)"
 }
