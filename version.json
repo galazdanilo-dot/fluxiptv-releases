@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "1.28",
-  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.28/flux.apk",
-  "notes": "Versión 1.28: corrige el cierre de Flux al abrir Inicio (títulos repetidos en tendencias)"
+  "versionCode": 30,
+  "versionName": "1.29",
+  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.29/flux.apk",
+  "notes": "Resolución de películas y series en el Inicio, en «¿Dónde verla?» y al apretar OK. Al salir de una película se vuelve al selector y al mismo lugar del Inicio."
 }
