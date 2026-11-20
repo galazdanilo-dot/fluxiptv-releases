@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "1.29",
-  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.29/flux.apk",
-  "notes": "Resolución de películas y series en el Inicio, en «¿Dónde verla?» y al apretar OK. Al salir de una película se vuelve al selector y al mismo lugar del Inicio."
+  "versionCode": 31,
+  "versionName": "1.30",
+  "apk": "https://github.com/galazdanilo-dot/fluxiptv-releases/releases/download/v1.30/flux.apk",
+  "notes": "Películas y series: adelanta o retrocede a cualquier punto. Con ← → sale una barra; mantén la flecha para ir más rápido, ↑ ↓ salta 10 minutos y los números 1-9 van al 10 %…90 %."
 }
